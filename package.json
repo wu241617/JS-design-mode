@@ -1,0 +1,19 @@
+{
+  "name": "js-design-mode",
+  "version": "1.0.0",
+  "description": "JS 设计模式相关",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wu241617/JS-design-mode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wu241617/JS-design-mode/issues"
+  },
+  "homepage": "https://github.com/wu241617/JS-design-mode#readme"
+}
